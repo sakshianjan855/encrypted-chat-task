@@ -48,7 +48,6 @@ Encrypted-Chat-App/
 │
 ├── chat_app.py
 ├── README.md
-├── requirements.txt
 └── chat.log
 ```
 
